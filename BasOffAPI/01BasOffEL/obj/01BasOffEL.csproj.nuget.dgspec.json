@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\William\\Desktop\\BasOffAPI\\01BasOffEL\\01BasOffEL.csproj": {}
+    "C:\\Users\\William\\Desktop\\BasOff\\BasOffAPI\\01BasOffEL\\01BasOffEL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\William\\Desktop\\BasOffAPI\\01BasOffEL\\01BasOffEL.csproj": {
+    "C:\\Users\\William\\Desktop\\BasOff\\BasOffAPI\\01BasOffEL\\01BasOffEL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\William\\Desktop\\BasOffAPI\\01BasOffEL\\01BasOffEL.csproj",
+        "projectUniqueName": "C:\\Users\\William\\Desktop\\BasOff\\BasOffAPI\\01BasOffEL\\01BasOffEL.csproj",
         "projectName": "01BasOffEL",
-        "projectPath": "C:\\Users\\William\\Desktop\\BasOffAPI\\01BasOffEL\\01BasOffEL.csproj",
+        "projectPath": "C:\\Users\\William\\Desktop\\BasOff\\BasOffAPI\\01BasOffEL\\01BasOffEL.csproj",
         "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\William\\Desktop\\BasOffAPI\\01BasOffEL\\obj\\",
+        "outputPath": "C:\\Users\\William\\Desktop\\BasOff\\BasOffAPI\\01BasOffEL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

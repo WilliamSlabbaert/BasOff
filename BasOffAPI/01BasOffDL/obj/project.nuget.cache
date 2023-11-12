@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BarX6Ks/+NCmCeQApZ+hdGdE/Bkd4A3u8UbOGJBvj3y1CalV4UHqnPdPZdSwU2ShjTpH5zJTWLV3Hibx1REyag==",
+  "dgSpecHash": "uTE5jQZs7zXxYu2Dq06PiR+d69QkO/ZiQuS5jzbDVbm49y3F7zrhxiv7MY/zLDwPzqAbF2AvfDsM050WQmqDPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\William\\Desktop\\BasOffAPI\\01BasOffDL\\03BasOffIL.csproj",
+  "projectFilePath": "C:\\Users\\William\\Desktop\\BasOff\\BasOffAPI\\01BasOffDL\\03BasOffIL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\William\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
     "C:\\Users\\William\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",
