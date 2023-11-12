@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "02BasOffAL/1.0.0": {
+        "dependencies": {
+          "01BasOffEL": "1.0.0"
+        },
+        "runtime": {
+          "02BasOffAL.dll": {}
+        }
+      },
+      "01BasOffEL/1.0.0": {
+        "runtime": {
+          "01BasOffEL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02BasOffAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "01BasOffEL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

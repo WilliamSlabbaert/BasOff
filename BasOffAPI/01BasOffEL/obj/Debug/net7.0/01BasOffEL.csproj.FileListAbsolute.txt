@@ -1,0 +1,11 @@
+C:\Users\William\Desktop\BasOffAPI\01BasOffEL\bin\Debug\net7.0\01BasOffEL.deps.json
+C:\Users\William\Desktop\BasOffAPI\01BasOffEL\bin\Debug\net7.0\01BasOffEL.dll
+C:\Users\William\Desktop\BasOffAPI\01BasOffEL\bin\Debug\net7.0\01BasOffEL.pdb
+C:\Users\William\Desktop\BasOffAPI\01BasOffEL\obj\Debug\net7.0\01BasOffEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William\Desktop\BasOffAPI\01BasOffEL\obj\Debug\net7.0\01BasOffEL.AssemblyInfoInputs.cache
+C:\Users\William\Desktop\BasOffAPI\01BasOffEL\obj\Debug\net7.0\01BasOffEL.AssemblyInfo.cs
+C:\Users\William\Desktop\BasOffAPI\01BasOffEL\obj\Debug\net7.0\01BasOffEL.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\BasOffAPI\01BasOffEL\obj\Debug\net7.0\01BasOffEL.dll
+C:\Users\William\Desktop\BasOffAPI\01BasOffEL\obj\Debug\net7.0\refint\01BasOffEL.dll
+C:\Users\William\Desktop\BasOffAPI\01BasOffEL\obj\Debug\net7.0\01BasOffEL.pdb
+C:\Users\William\Desktop\BasOffAPI\01BasOffEL\obj\Debug\net7.0\ref\01BasOffEL.dll

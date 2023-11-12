@@ -1,0 +1,17 @@
+.login-container{
+    max-width: 30rem;
+    width: 100%;
+}
+
+.login-container .card{
+    width: 100%;
+    padding: 1rem;
+    padding-bottom: 3rem;
+}
+.login-container h2{
+    color: #00d1b2;
+}
+
+.login-btn{
+    float: right;
+}

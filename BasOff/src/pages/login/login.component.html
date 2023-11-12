@@ -1,0 +1,20 @@
+<div class="login-container">
+  <div class="card-content">
+    <h2 class="title is-2">BasOff</h2>
+  </div>
+  <div class="card ">
+    <div class="card-content">
+      <h4 class="title is-4">Login</h4>
+
+      <div class="field">
+        <label class="label">Username</label>
+        <input class="input is-primary" type="text" placeholder="Username" [(ngModel)]="username">
+      </div>
+      <div class="field">
+        <label class="label">Password</label>
+        <input class="input is-primary" type="password" placeholder="Password" [(ngModel)]="password">
+      </div>
+      <button class="button is-primary is-right login-btn" (click)="onLogin()">Login</button>
+    </div>
+  </div>
+</div>

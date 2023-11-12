@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "BasOffAPI": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:56068;http://localhost:56069"
+    }
+  }
+}
