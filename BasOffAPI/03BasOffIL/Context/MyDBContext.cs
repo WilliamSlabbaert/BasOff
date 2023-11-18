@@ -1,4 +1,4 @@
-﻿using _01BasOffDL.DataModels;
+﻿using _01BasOffEL.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace _01BasOffDL.Context
@@ -6,7 +6,11 @@ namespace _01BasOffDL.Context
     public class MyDBContext : DbContext
     {
 
-        public DbSet<UserCredentialsDataModel> Users { get; set; }
+        public List<UserCredentialsEntity> Users { get; set; } = new List<UserCredentialsEntity>()
+        {
+            new UserCredentialsEntity { Id = 1, Username = "user1", Password = "hash1" },
+            new UserCredentialsEntity { Id = 2, Username = "user2", Password = "hash2" }
+        };
 
         public MyDBContext()
         {
@@ -14,9 +18,9 @@ namespace _01BasOffDL.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<UserCredentialsDataModel>().HasData(
-                new UserCredentialsDataModel { Id = 1, Username = "user1", Password = "hash1" },
-                new UserCredentialsDataModel { Id = 2, Username = "user2", Password = "hash2" }
+            modelBuilder.Entity<UserCredentialsEntity>().HasData(
+                new UserCredentialsEntity { Id = 1, Username = "user1", Password = "hash1" },
+                new UserCredentialsEntity { Id = 2, Username = "user2", Password = "hash2" }
             );
         }
     }

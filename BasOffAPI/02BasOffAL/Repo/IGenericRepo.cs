@@ -7,8 +7,11 @@ using System.Threading.Tasks;
 
 namespace _02BasOffBL.Repo
 {
-    public interface ILoginRepo
+        
+    public interface IGenericRepo<T> where T : BaseEntity
     {
-        public string Login(UserCredentialsEntity credentials);
+        public IQueryable<T> GetAll();
+        public Task<T> Get(int id);
+
     }
 }
