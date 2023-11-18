@@ -1,8 +1,9 @@
 ﻿using _02BasOffBL.DTO;
+using _02BasOffBL.Reponse;
 using _02BasOffBL.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace _03BasOffAPI.Controllers
+namespace Controllers
 {
     [ApiController]
     [Route("[controller]")]
@@ -22,7 +23,7 @@ namespace _03BasOffAPI.Controllers
             return Ok("test");
         }
         [HttpPost]
-        public ActionResult<string> Login([FromBody] UserCredentialsDTO? credentials = null)
+        public ActionResult<BaseResponse> Login([FromBody] UserCredentialsDTO? credentials = null)
         {
             return Ok(_loginService.Login(credentials));
         }

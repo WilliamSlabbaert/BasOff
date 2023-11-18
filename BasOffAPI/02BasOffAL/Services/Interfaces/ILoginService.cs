@@ -1,9 +1,10 @@
 ﻿using _02BasOffBL.DTO;
+using _02BasOffBL.Reponse;
 
 namespace _02BasOffBL.Services.Interfaces
 {
     public interface ILoginService
     {
-        public string Login(UserCredentialsDTO userCredentials);
+        public BaseResponse Login(UserCredentialsDTO userCredentials);
     }
 }
